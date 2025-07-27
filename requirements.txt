@@ -1,0 +1,7 @@
+streamlit==1.47.1
+transformers==4.36.2
+datasets==4.0.0
+evaluate==0.4.0
+torch==2.7.1
+scikit-learn
+plotly
