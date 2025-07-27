@@ -1,9 +1,0 @@
-streamlit
-transformers
-sentence-transformers
-textblob
-language-tool-python
-torch
-scikit-learn
-datasets
-plotly
