@@ -1,6 +1,0 @@
-streamlit==1.47.1
-transformers==4.36.2
-datasets
-torch
-scikit-learn
-plotly
